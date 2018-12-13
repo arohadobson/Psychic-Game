@@ -18,4 +18,4 @@ When you're ready to start the game, you should begin randomly selecting letters
 
 ## Gifs
 
-![Psychic Game Runthrough](https://media.giphy.com/media/4TtwgNe04PjEWmCvVS/giphy.gif)
+![Psychic Game Runthrough](https://media.giphy.com/media/uV6iw6hpDt2EeCOTHZ/giphy.gif)
